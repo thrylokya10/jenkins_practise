@@ -1,3 +1,3 @@
 # Databricks notebook source
-sunday=spark.table("dev_mai_upgrade.cohort_list_kyprolis")
-display(sunday)
+sunday_5=spark.table("dev_mai_upgrade.cohort_list_kyprolis")
+display(sunday_5)
